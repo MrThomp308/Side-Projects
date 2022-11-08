@@ -5,10 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium import webdriver
 from selenium.webdriver.remote.webelement import WebElement
-from undetected_chromedriver import Chrome
 
-from sqlalchemy import false, true
-from pythonpancakes import PancakeSwapAPI 
 import time
 import json
 import urllib.request
